@@ -91,7 +91,6 @@ PerturbCorpus 是一个面向 AI 的基因扰动数据库，整合了来自公�
 ├── bulk_gi_tool.php           # bulk 遗传互作分类工具
 ├── sc_gi_tool.php             # single-cell 遗传互作分类工具
 ├── background.php             # 公共页面背景与主题逻辑
-├── config.php                 # 数据库和站点配置
 ├── static/                    # CSS / JS / 静态资源
 ├── sqlite3/                   # SQLite 数据库文件
 ├── .gitignore                 # git 忽略规则
